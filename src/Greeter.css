@@ -1,0 +1,9 @@
+:root{
+    --medium-turquoise: hsl(172, 48%, 59%);
+}
+
+.greeter-header{
+    font-weight: var(--fw-300);
+    color: var(--medium-turquoise);
+
+}
